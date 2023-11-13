@@ -5,6 +5,7 @@ This is a protocol template for an observational study, based off the combined "
 1. Title and abstract
 
 a. *Indicate the study’s design with a commonly used term in the title or the abstract*
+
 b. *Provide in the abstract an informative and balanced summary of what was done and what was found*
 
 ## Introduction
@@ -30,6 +31,7 @@ b. *Provide in the abstract an informative and balanced summary of what was done
 6. Participants
 
 a. *Give the eligibility criteria, and the sources and methods of selection of participants. Describe methods of follow-up*
+
 b. *For matched studies, give matching criteria and number of exposed and unexposed*
 
 7. Variables
@@ -55,9 +57,13 @@ b. *For matched studies, give matching criteria and number of exposed and unexpo
 12. Statistical methods
 
 a. *Describe all statistical methods, including those used to control for confounding*
+
 b. *Describe any methods used to examine subgroups and interactions*
+
 c. *Explain how missing data were addressed*
+
 d. *If applicable, explain how loss to follow-up was addressed*
+
 e. *Describe any sensitivity analyses*
 
 ## Results
@@ -65,13 +71,17 @@ e. *Describe any sensitivity analyses*
 13. Participants$^*$
 
 a. *Report numbers of individuals at each stage of study—eg numbers potentially eligible, examined for eligibility, confirmed eligible, included in the study, completing follow-up, and analysed*
+
 b. *Give reasons for non-participation at each stage*
+
 c. *Consider use of a flow diagram*
 
 14. Descriptive data$^*$
 
 a. *Give characteristics of study participants (eg demographic, clinical, social) and information on exposures and potential confounders*
+
 b. *Indicate number of participants with missing data for each variable of interest*
+
 c. *Summarise follow-up time (eg, average and total amount)*
 
 15. Outcome data$^*$
@@ -81,7 +91,9 @@ c. *Summarise follow-up time (eg, average and total amount)*
 16. Main results
 
 a. *Give unadjusted estimates and, if applicable, confounder-adjusted estimates and their precision (eg, 95% confidence interval). Make clear which confounders were adjusted for and why they were included*
+
 b. *Report category boundaries when continuous variables were categorized*
+
 c. *If relevant, consider translating estimates of relative risk into absolute risk for a meaningful time period*
 
 17. Other analyses
